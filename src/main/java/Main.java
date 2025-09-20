@@ -6,5 +6,7 @@ public class Main {
         System.out.println("This is featureA branch change");
 
         System.out.println("This is featureB branch");
+
+        System.out.println("This is featureB branch");
     }
 }
